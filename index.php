@@ -30,7 +30,7 @@ are with now, and the most important activity in your life is the one you
 </head>
 <body>
 <?php include('topnav.php'); ?>
-<p>This is an important section of the page.</p>
+<p>Willkommen</p>
 <div style="text-align: right"><img src="/images/star5.jpg" width=
 "100"></div>
 <div id="footer">test</div>

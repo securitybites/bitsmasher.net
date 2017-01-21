@@ -20,7 +20,7 @@ body {
 <table width="100%" border="0">
   <tr>
     <td><h1>Networking Lab @bitsmasher.net</h1></td>
-    <td> <div align="right">[ <a href="http://www.bitsmasher.net/">Home</a> ] [ <a href="http://www.bitsmasher.net/fubaria/">#fubaria</a> ] [ <a href="http://www.bitsmasher.net/school/">teaching</a> ] [ <a href="http://www.bitsmasher.net/projects/">projects</a> ] [ <a href="http://www.bitsmasher.net/about.html">about</a> ] [ <a href="https://server14.websitehostserver.net:2083/xferwebmail/">webmail</a> ]</div></td>
+    <td> <div align="right">[ <a href="http://www.bitsmasher.net/">Home</a> ] [ <a href="http://www.bitsmasher.net/projects/">projects</a> ] [ <a href="http://www.bitsmasher.net/about.html">about</a> ] [ <a href="https://server14.websitehostserver.net:2083/xferwebmail/">webmail</a> ]</div></td>
   </tr>
 </table>
 
