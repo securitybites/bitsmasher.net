@@ -30,9 +30,14 @@ are with now, and the most important activity in your life is the one you
 </head>
 <body>
 <?php include('topnav.php'); ?>
-<p>Willkommen</p>
+<div style="content">
+Willkommen
+</div>
 <div style="text-align: right"><img src="/images/star5.jpg" width=
 "100"></div>
-<div id="footer">test</div>
+<div id="footer">
+  Copyright © 2010,2011,2017 bitsmasher.net All Rights Reserved.
+</div>
+<!-- end footer -->
 </body>
 </html>
