@@ -30,14 +30,26 @@ are with now, and the most important activity in your life is the one you
 </head>
 <body>
 <?php include('topnav.php'); ?>
+&nbsp; <br />
+&nbsp; <br />
+&nbsp; <br />
+&nbsp; <br />
 <div style="content">
-Willkommen
+<table width=100%>
+<tr><td>
+Check out <a href="https://github.com/theDevilsVoice/1337-Noms-The-Hacker-Cookbook">The Hacker Cookbook</a> I'm creating with the help of some friends and family. The [README.md file](https://github.com/theDevilsVoice/1337-Noms-The-Hacker-Cookbook/blob/master/README.md) has more detail.
+&nbsp; <br />
+&nbsp; <br />
+   * First, <a href="https://help.github.com/articles/fork-a-repo/">fork the respository</a> to create a local copy where you can make your desired additions & changes.
+&nbsp; <br />
+   * Make your desired additions and changes in your fork, and then add/commit/push locally. This will be a folder containing a markdown file and a couple pictures of your dish.
+&nbsp; <br />
+   * Create a <a href="https://help.github.com/articles/about-pull-requests/">pull request</a> to signify your changes are ready for review and merge into the cookbook.
+</td>
+<td align=right><img src="/images/star5.jpg" width="100">
+</td></tr>
+</table>
 </div>
-<div style="text-align: right"><img src="/images/star5.jpg" width=
-"100"></div>
-<div id="footer">
-  Copyright © 2010,2011,2017 bitsmasher.net All Rights Reserved.
-</div>
-<!-- end footer -->
+<?php include "footer.php"; ?>
 </body>
 </html>

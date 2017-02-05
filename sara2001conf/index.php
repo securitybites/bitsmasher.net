@@ -15,7 +15,7 @@
         //include "../../page_header.php";
 ?>
 <center>
-<a href="http://www.bitsmasher.net"><img src="http://www.bitsmasher.net/images/bit-logo2.jpg" alt="home" border=0></a>
+<a href="/index.php"><img src="/images/bit-logo2.jpg" alt="home" border=0></a>
 </center>
 
 <table border="1" cellpadding="0" cellspacing="0" width="70%" 
