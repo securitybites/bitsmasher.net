@@ -37,7 +37,7 @@ are with now, and the most important activity in your life is the one you
 <div style="content">
 <table width=100%>
 <tr><td>
-Check out <a href="https://github.com/theDevilsVoice/1337-Noms-The-Hacker-Cookbook">The Hacker Cookbook</a> I'm creating with the help of some friends and family. The [README.md file](https://github.com/theDevilsVoice/1337-Noms-The-Hacker-Cookbook/blob/master/README.md) has more detail.
+Check out <a href="https://github.com/theDevilsVoice/1337-Noms-The-Hacker-Cookbook">The Hacker Cookbook</a> I'm creating with the help of some friends and family. The <a href="https://github.com/theDevilsVoice/1337-Noms-The-Hacker-Cookbook/blob/master/README.md">README.md file</a> has more detail.
 &nbsp; <br />
 &nbsp; <br />
    * First, <a href="https://help.github.com/articles/fork-a-repo/">fork the respository</a> to create a local copy where you can make your desired additions & changes.
