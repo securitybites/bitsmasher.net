@@ -13,7 +13,10 @@
          top.location=self.document.location;
        //-->
 </script>
-<script src="mouseover_popup.js" language="JavaScript" type="text/javascript">
+<script type="text/javascript">
+         function swap(image) {
+             document.getElementById("main").src = image.href;
+         }
 </script>
 </head>
 <body bgcolor="#637394" link="#FFFFFF" leftmargin="0" topmargin="0"
@@ -50,7 +53,7 @@ target="new">Green Bank, West Virginia</a> at the <a href=
 Observatory</a> (NRAO). Here is a picture of the sign at the
 entrance to the facility.</font></td>
 <td>
-<td><a href="images/dcp_0828.jpg"><img src="images/dcp_0828.jpg" border= "0" height="80" width="80"></a></td>
+<td><a href="images/dcp_0828.jpg" onclick="swap(this); return false;"><img src="images/dcp_0828_thumb.jpg" border= "0" height="80" width="80"></a></td>
 </tr>
 </table>
 <table border="1">
