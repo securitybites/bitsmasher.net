@@ -19,7 +19,7 @@
 <body bgcolor="#637394" link="#FFFFFF" leftmargin="0" topmargin="0"
 marginwidth="0" marginheight="0" vlink="#FFFFFF">
 <center><a href="/index.php"><img src="/images/bit-logo2.jpg" alt=
-"home" border="0" height="80" width="80"></a></center>
+"home" border="0" height="54" width="455"></a></center>
 <table border="1" cellpadding="0" cellspacing="0" width="70%"
 align="center">
 <tr>
