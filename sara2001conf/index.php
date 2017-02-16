@@ -38,11 +38,7 @@ describes my trip to the Society of Amateur Radio Astronomers
 Green Bank, West Virginia (NRAO Green Bank). The conference was
 three days and I had a great time meeting people, going to
 lectures, and using the government facilities to do real
-observations. If you click on any of the pictures below they are
-links to a larger image so you can get a closer look. you will have
-to use your browsers "back" button while viewing a picture to get
-back to this page because I am too lazy to make a nice link for
-you.</font></p>
+observations.  </font></p>
 <table border="1">
 <tr>
 <td><font color="#C6DFF7" size="-1" face="Verdana">This year was
@@ -56,7 +52,7 @@ entrance to the facility.</font></td>
 <td>
 <div style="display: none; position: absolute; z-index: 110; left: 400; top: 100; width: 15; height: 15" id="preview_div">
 </div>
-<a href="dcp_0828.html"><img src="images/dcp_0828_thumb.jpg" border= "0" onmouseover="showtrail('images/dcp_0828.jpg','NRAO Sign',640,480" onmouseout="hidetrail()"></a>
+<a href="dcp_0828.html"><img src="images/dcp_0828_thumb.jpg" border= "0" onmouseover="showtrail('images/dcp_0828.jpg','NRAO Sign',640,480" onmouseout="hidetrail()"></a></td>
 </tr>
 </table>
 <table border="1">
