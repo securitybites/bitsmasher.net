@@ -55,13 +55,13 @@ Observatory</a> (NRAO). Here is a picture of the sign at the
 entrance to the facility.</font></td>
 <td>
 <div style="display: none; position: absolute; z-index: 110; left: 400; top: 100; width: 15; height: 15" id="preview_div">
-<a href="dcp_0828.html"><img src="images/dcp_0828.jpg" border= "0" onmouseover="showtrail('images/dcp_0828.jpg','NRAO Sign',640,480" onmouseout="hidetrail()"></a>
+<a href="dcp_0828.html"><img src="images/dcp_0828_thumb.jpg" border= "0" onmouseover="showtrail('images/dcp_0828.jpg','NRAO Sign',640,480" onmouseout="hidetrail()"></a>
 </div>
 </tr>
 </table>
 <table border="1">
 <tr>
-<td><a href="images/dcp_0799.jpg"><img src="images/dcp_0799.jpg" border=
+<td><a href="dcp_0799.html"><img src="images/dcp_0799.jpg" border=
 "0" height="80" width="80"></a></td>
 <td><font color="#C6DFF7" size="-1" face="Verdana">So what does one
 do at a Radio Astronomy Conference you might ask? We spent our days
