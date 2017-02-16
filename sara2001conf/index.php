@@ -5,22 +5,19 @@
 "HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
 <meta http-equiv="Content-Type" content=
 "text/html; charset=us-ascii">
-<link rel="stylesheet" type="test/css" href="/test.css" media=
-"screen">
 <title>2001 SARA Conference (20th Anniversary)</title>
-
+<link rel="stylesheet" href="style.css" type="text/css">
 <script language="JavaScript" type="text/javascript">
        <!--Break out of frames
          if (top.frames.length!=0)
          top.location=self.document.location;
        //-->
 </script>
+<script src="mouseover_popup.js" language="JavaScript" type="text/javascript">
+</script>
 </head>
 <body bgcolor="#637394" link="#FFFFFF" leftmargin="0" topmargin="0"
 marginwidth="0" marginheight="0" vlink="#FFFFFF">
-<?
-        //include "../../page_header.php";
-?>
 <center><a href="/index.php"><img src="/images/bit-logo2.jpg" alt=
 "home" border="0" height="80" width="80"></a></center>
 <table border="1" cellpadding="0" cellspacing="0" width="70%"
@@ -56,13 +53,15 @@ target="new">Green Bank, West Virginia</a> at the <a href=
 "http://www.nrao.edu/" target="new">National Radio Astronomy
 Observatory</a> (NRAO). Here is a picture of the sign at the
 entrance to the facility.</font></td>
-<td><a href="dcp_0828.jpg"><img src="thumbs/dcp_0828.jpg" border=
-"0" height="80" width="80"></a></td>
+<td>
+<div style="display: none; position: absolute; z-index: 110; left: 400; top: 100; width: 15; height: 15" id="preview_div">
+<a href="dcp_0828.jpg"><img src="images/dcp_0828_thumb.jpg" border= "0" onmouseover="showtrail('dcp_0828.jpg','NRAO Sign',640,480" onmouseout="hidetrail()"></a>
+</div>
 </tr>
 </table>
 <table border="1">
 <tr>
-<td><a href="dcp_0799.jpg"><img src="thumbs/dcp_0799.jpg" border=
+<td><a href="dcp_0799_thumb.jpg"><img src="images/dcp_0799.jpg" border=
 "0" height="80" width="80"></a></td>
 <td><font color="#C6DFF7" size="-1" face="Verdana">So what does one
 do at a Radio Astronomy Conference you might ask? We spent our days
@@ -79,13 +78,13 @@ you can see the dormitories on the left and the cafeteria on the
 right. You can also see the row of bicycles near the dorm entrance.
 These were provided as a courtesy and our main mode of
 transportation around the site!</font></td>
-<td><a href="dcp_0793.jpg"><img src="thumbs/dcp_0793.jpg" border=
+<td><a href="dcp_0793_thumb.jpg"><img src="images/dcp_0793.jpg" border=
 "0" height="80" width="80"></a></td>
 </tr>
 </table>
 <table border="1">
 <tr>
-<td><a href="dcp_0808.jpg"><img src="thumbs/dcp_0808.jpg" border=
+<td><a href="dcp_0808_thumb.jpg"><img src="images/dcp_0808.jpg" border=
 "0" height="80" width="80"></a></td>
 <td><font color="#C6DFF7" size="-1" face="Verdana">On the second
 floor of the dormitories above the entrance, we have the <a href=
@@ -107,13 +106,13 @@ did was to turn over some of their older surplus equipment to our
 club for our projects! We drew names out of a hat to decide who got
 what. Here we see everyone perusing the boxes to see what they
 might grab in the raffle.</font></td>
-<td><a href="dcp_0830.jpg"><img src="thumbs/dcp_0830.jpg" border=
+<td><a href="dcp_0830_thumb.jpg"><img src="images/dcp_0830.jpg" border=
 "0" height="80" width="80"></a></td>
 </tr>
 </table>
 <table border="1">
 <tr>
-<td><a href="dcp_0832.jpg"><img src="thumbs/dcp_0832.jpg" border=
+<td><a href="dcp_0832_thumb.jpg"><img src="images/dcp_0832.jpg" border=
 "0" height="80" width="80"></a></td>
 <td><font color="#C6DFF7" size="-1" face="Verdana">Oh boy, more
 lectures! Can you believe the good fortune? Here we are listening
@@ -128,36 +127,36 @@ are extremely sensitive instruments. The spark plugs from the
 combustion engine in an automobile can be disruptive to the
 receivers that make up the "back end" of the scope. For this
 reason, cars are not allowed near the dishes.</font></td>
-<td><a href="dcp_0814.jpg"><img src="thumbs/dcp_0814.jpg" border=
+<td><a href="dcp_0814_thumb.jpg"><img src="images/dcp_0814.jpg" border=
 "0" height="80" width="80"></a></td>
 </tr>
 </table>
 <table border="1">
 <tr>
-<td><a href="dcp_0803.jpg"><img src="thumbs/dcp_0803.jpg" border=
+<td><a href="dcp_0803_thumb.jpg"><img src="images/dcp_0803.jpg" border=
 "0" height="80" width="80"></a></td>
 <td><font color="#C6DFF7" size="-1" face="Verdana">Not to worry, we
 have an alternate means of transportation...diesel powered cars
 courtesy of Uncle Sam! Let's go for a ride...</font></td>
-<td><a href="dcp_0816.jpg"><img src="thumbs/dcp_0816.jpg" border=
+<td><a href="dcp_0816_thumb.jpg"><img src="images/dcp_0816.jpg" border=
 "0" height="80" width="80"></a></td>
 </tr>
 </table>
 <table border="1">
 <tr>
-<td><a href="dcp_0820.jpg"><img src="thumbs/dcp_0820.jpg" border=
+<td><a href="dcp_0820_thumb.jpg"><img src="images/dcp_0820.jpg" border=
 "0" height="80" width="80"></a></td>
 <td><font color="#C6DFF7" size="-1" face="Verdana">This is the 40
 foot Radio Telescope where we spent our evenings (and much of the
 night for that matter). We are entering this small building that is
 halfway below ground.</font></td>
-<td><a href="dcp_0821.jpg"><img src="thumbs/dcp_0821.jpg" border=
+<td><a href="dcp_0821_thumb.jpg"><img src="images/dcp_0821.jpg" border=
 "0" height="80" width="80"></a></td>
 </tr>
 </table>
 <table border="1">
 <tr>
-<td><a href="dcp_0825.jpg"><img src="thumbs/dcp_0825.jpg" border=
+<td><a href="dcp_0825_thumb.jpg"><img src="images/dcp_0825.jpg" border=
 "0" height="80" width="80"></a></td>
 <td><font color="#C6DFF7" size="-1" face="Verdana">Here are the
 back end electronics for the 40 foot dish. Electromagnetic energy
@@ -170,13 +169,13 @@ exciting is that? Here I get a chance to do some observing. The
 strip chart is nice, but they have since updated everything to
 computer control (not pictured), including the data collection,
 which I much prefer.</font></td>
-<td><a href="dcp_0845.jpg"><img src="thumbs/dcp_0845.jpg" border=
+<td><a href="dcp_0845_thumb.jpg"><img src="images/dcp_0845.jpg" border=
 "0" height="80" width="80"></a></td>
 </tr>
 </table>
 <table border="1">
 <tr>
-<td><a href="dcp_0836.jpg"><img src="thumbs/dcp_0836.jpg" border=
+<td><a href="dcp_0836_thumb.jpg"><img src="images/dcp_0836.jpg" border=
 "0" height="80" width="80"></a></td>
 <td><font color="#C6DFF7" size="-1" face="Verdana">Finally, we have
 are taken down to see the larget radio telescope in the world. I
@@ -184,7 +183,7 @@ think these pictures really don't do it justice. This structure
 weighs around 16 million tons and is taller than the Statue of
 Liberty. I counted twenty stories up just to get to the bottom of
 the dish!</font></td>
-<td><a href="dcp_0842.jpg"><img src="thumbs/dcp_0842.jpg" border=
+<td><a href="dcp_0842_thumb.jpg"><img src="images/dcp_0842.jpg" border=
 "0" height="80" width="80"></a></td>
 </tr>
 </table>
@@ -195,7 +194,7 @@ professional counterparts at NRAO come through with the guided
 tour. The people on the regular tours had to stay outside the fence
 a quarter of a mile away! Certainly a strong argument for seeking
 club membership.</font></td>
-<td><a href="dcp_0839.jpg"><img src="thumbs/dcp_0839.jpg" border=
+<td><a href="dcp_0839_thumb.jpg"><img src="images/dcp_0839.jpg" border=
 "0" height="80" width="80"></a></td>
 </tr>
 </table>
