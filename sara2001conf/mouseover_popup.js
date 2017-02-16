@@ -7,8 +7,8 @@ This notice must stay intact
 var offsetfrommouse=[15,25]; //image x,y offsets from cursor position in pixels. Enter 0,0 for no offset
 var displayduration=0; //duration in seconds image should remain visible. 0 for always.
 
-var defaultimageheight = 40;	// maximum image size.
-var defaultimagewidth = 40;	// maximum image size.
+var defaultimageheight = 80;	// maximum image size.
+var defaultimagewidth = 80;	// maximum image size.
 
 var timer;
 
