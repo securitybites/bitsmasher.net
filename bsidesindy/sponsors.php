@@ -1,9 +1,10 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 <head>
 <title>BSides Indy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link href="style.css" rel="stylesheet" type="text/css" />
+<meta name="author" content="thedevilsvoice" >
 </head>
 
 <body>
@@ -11,17 +12,7 @@
   <div id="header">
     <div align="center"><img src="images/BSidesIndy_Skyline_lowres.png" alt="IndySkyline" width="510" height="215" border="0" /></div>
   </div>
-  <div id="navcontainer">
-    <ul id="navlist">
-      <li><a href="index.html">Home</a></li>
-	  <li><a href="https://bsidesindy2017.busyconf.com/proposals/new" target="_blank">CFP</a></li>
-	  <li><a href="https://bsidesindy2017.busyconf.com/schedule" target="_blank">Schedule</a></li>
-	  <li><a href="ctf.html" target="_blank">CTF</a></li>
-      <li><a href="swag.html" target="_blank">SWAG</a></li>
-	  <li style="border-right: none;"><a class="active"href="sponsors.html">Sponsors</a></li>
-      
-	</ul>
-  </div>
+  <?php include "nav_bar.php"; ?>
 
   <div id="content">
     <div id="homeText">
@@ -38,13 +29,8 @@
     </div>
   </div>
 
-  <div id="footer">
-    <ul id="navlistfooter">
-	  <li><a href="">&copy; Copyright 2017</a></li>
-	  <li style="border-right: none;"><a href="https://twitter.com/indybsides" target="_blank">Follow us on Twitter!</a></li>
-	</ul>
-  </div>
-
+  <?php include "footer.php"; ?>
+  
 </div>
 </body>
 </html>
