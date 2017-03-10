@@ -16,12 +16,18 @@
 
   <div id="content">
     <div id="homeText">
+          <p align="left">Thanks to RevICS Security</p><br /><br /><br /><br /><br /><br /><br /><br />
 	  <p align="left">Want to help make BSidesIndy possible?<br />
         We'd love to hear from you!</p>
       	<p>Download our <strong><a href="https://www.dropbox.com/s/9b9veak0dzunk3y/BSides_Indianapolis_Sponsorship_2017%20rev4.pdf?dl=0" target="blank">Sponsor Kit</a></strong><br />
 		and <a href="mailto:frank378@gmail.com"><strong>Email</strong></a> us. We're happy to<br />
         answer your questions.<br /></p>
 	  </p>
+    </div>
+    <div id="contentPhoto">
+      <div align="left"><br /><br /><br /><br />
+         <a href="http://www.revics-security.com"><img src="images/revics-logo-cropped.png" alt="RevICS" width="275" /></a></div>
+      </div>
     </div>
     <div id="contentPhoto">
       <div align="right"><br /><br /><br /><br />
