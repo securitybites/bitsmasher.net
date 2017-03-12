@@ -1,8 +1,0 @@
-machine:
-  timezone:
-    America/Indiana/Indianapolis
-deployment:
-  staging:
-    branch: master
-    heroku:
-      appname: hackharder # appname must not include upper-case characters
