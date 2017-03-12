@@ -4,7 +4,7 @@
 </head>
 <body>
 <center>
-<img src="images/confused.jpg">
+<a href="https://www.bitsmasher.net/index.php"><img src="/images/confused.jpg"></a>
 <br />
 <a href="https://www.bitsmasher.net/index.php"><h1>GO HOME</h1></a>
 
