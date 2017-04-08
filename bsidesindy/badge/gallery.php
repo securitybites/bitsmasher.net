@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-<table>
+<table border=1>
 <?php
 // define directory path
 $dir = ".";
@@ -17,7 +17,7 @@ if (is_dir($dir)) {
                 echo "<tr>";
                 // get thumbnail
                 // link to full image
-                echo "<td valign=top><a href=$dir/$file><imgsrc=thumbnail.php?file=$file></a><td>";
+                echo "<td valign=top><a href=$file><img src=thumbnail.php?img=$file></a><td>";
                 echo "<td valign=top><font size=-1>";
                 // get file name
                 echo "File: <b>" . $exif['FILE']['FileName'] . "</b><br/>";
