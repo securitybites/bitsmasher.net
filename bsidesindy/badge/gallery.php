@@ -1,5 +1,16 @@
 <html>
-<head></head>
+<head>
+<style type="text/css">
+.thumb{
+    border:1px solid #CCC;
+    padding:5px;
+    background:#FFF;
+    box-shadow:0px 0px 5px #DDD;
+    -webkit-box-shadow:0px 0px 5px #DDD;
+    -moz-box-shadow:0px 0px 5px #DDD;   
+}
+</style>
+</head>
 <body>
 <table border=1>
 <?php
@@ -17,7 +28,7 @@ if (is_dir($dir)) {
                 echo "<tr>";
                 // get thumbnail
                 // link to full image
-                echo "<td valign=top><a href=$file><img src=thumbnail.php?img=$file&type=square&align=top></a><td>";
+                echo "<td valign=top><a href=$file><img src=thumbnail.php?img=$file&type=square&align=top class=thumb></a><td>";
                 //echo "<td valign=top><font size=-1>";
                 // get file name
                 echo "File: <b>" . $exif['FILE']['FileName'] . "</b><br/>";
