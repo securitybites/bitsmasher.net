@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<?php
+
+?><!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -28,7 +30,7 @@
       	<a href="https://www.ivytech.edu/central-indiana/11914.html">Ivy Tech Corporate College and<br />Culinary Center</a><br />
 		2820 North Meridian Street<br />
 		Indianapolis</strong><br />
-        <a href="https://bsidesindy2017.busyconf.com/bookings/new" target="_blank"><strong>Purchase Tickets</a></strong><br />
+        <a href="https://bsidesindy2018.busyconf.com/bookings/new" target="_blank"><strong>Purchase Tickets</a></strong><br />
 	    $15 general / $0 students<br />
 	  </p>
     </div>
