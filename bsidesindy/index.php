@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<?php
+
+?><!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -22,14 +24,12 @@
 
   <div id="content">
     <div id="homeText">
-	  <p align="left"><strong>Saturday, March 11, 2017</strong><br />
+	  <p align="left"><strong>Saturday, March 10, 2018</strong><br />
 	  Speakers, CTF, Lockpick Village</p>
 	  <p align="left"><strong>Location:</strong><br />
-      	<a href="https://www.ivytech.edu/central-indiana/11914.html">Ivy Tech Corporate College and<br />Culinary Center</a><br />
-		2820 North Meridian Street<br />
-		Indianapolis</strong><br />
-        <a href="https://bsidesindy2017.busyconf.com/bookings/new" target="_blank"><strong>Purchase Tickets</a></strong><br />
-	    $15 general / $0 students<br />
+	     <strong>New Location this year: IUPUI</strong><br />
+        <a href="https://bsidesindy2018.busyconf.com/bookings/new" target="_blank"><strong>Purchase Tickets</a></strong><br />
+	    
 	  </p>
     </div>
     <div id="contentPhoto">
@@ -37,19 +37,7 @@
          <img src="images/BSidesIndy_Logo_lowres.png" alt="flag" width="275" /></div>
     </div>
   </div>
-<div id="content">
-    <div id="homeText">
-	  <p align="left"><strong>Special Workshop:</strong><br />
-	  Hak4Kidz</p>
-	  <p align="left"><strong>More Inforamtion:</strong><br />
-        <a href="http://www.hak4kidz.com/" target="_blank"><strong>Hak4Kidz</a></strong><br />
- 	  </p>
-    </div>
-    <div id="contentPhoto">
-      <div align="right"><br /><br /><br /><br />
-         <img src="images/tinker.png" alt="tinker" width="275" /></div>
-    </div>
-  </div>
+
 <?php include "footer.php"; ?>
 
 </div>
