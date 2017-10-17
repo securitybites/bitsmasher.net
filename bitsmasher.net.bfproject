@@ -3,7 +3,7 @@ e2c.convert_num: 0
 openfiles: /home/thedevilsvoice/workspace/bitsmasher.net/bsidesindy/index.php:1380:0:0:
 openfiles: /home/thedevilsvoice/workspace/bitsmasher.net/bsidesindy/swag.php:0:0:0:
 openfiles: /home/thedevilsvoice/workspace/bitsmasher.net/bsidesindy/ctf.php:236:0:0:
-openfiles: /home/thedevilsvoice/workspace/bitsmasher.net/indybsides/sponsors.php:1292:0:1:
+openfiles: /home/thedevilsvoice/workspace/bitsmasher.net/indybsides/sponsors.php:43:0:1:
 snr_recursion_level: 5
 convertcolumn_horizontally: 0
 adv_open_matchname: 0
@@ -57,7 +57,7 @@ recent_files: file:///home/thedevilsvoice/workspace/bitsmasher.net/bsidesindy/sw
 recent_files: file:///home/thedevilsvoice/workspace/bitsmasher.net/indybsides/sponsors.php
 recent_files: file:///home/thedevilsvoice/workspace/bitsmasher.net/indybsides/index.php
 snr_replacetype: 0
-savedir: file:///home/thedevilsvoice/workspace/bitsmasher.net/bsidesindy
+savedir: file:///home/thedevilsvoice/workspace/bitsmasher.net/indybsides
 spell_check_default: 1
 spell_insert_entities: 0
 last_filefilter: 
@@ -69,7 +69,7 @@ c2e.convert_symbol: 0
 spell_lang: en
 ssearch_dotmatchall: 0
 autocomplete: 1
-outputb_show_all_output: 0
+outputb_show_all_output: 1
 bookmarks_show_mode: 0
 fb_focus_follow: 1
 snippets_show_as_menu: 1

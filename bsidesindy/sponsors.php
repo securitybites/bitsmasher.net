@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>BSides Indy</title>
+<title>BSidesIndy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
 <link href="style.css" rel="stylesheet" type="text/css" />
