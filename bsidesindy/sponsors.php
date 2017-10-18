@@ -36,10 +36,9 @@
     </div>
     </div>
       <div id="content">
-        <div id="homeText">
           <p align="left">
-          <table align="center">
-          <th><td>Cost</td><td>Level</td><td>Description</td></th>
+          <table align="center" border="1">
+          <tr><th>Cost</th><th>Level</th><th>Description</th></tr>
           <tr><td>$2000</td><td> badge sponsor </td> <td>Sponsor name/logo silkscreened onto badge PCBs</td></tr>
           <tr><td>$300</td><td> Lanyard Sponsor</td><td>Sponsor name/logo on lanyard</td></tr>
           <tr><td>$500</td><td> Speaker/Staff Gift Sponsor</td><td>Black hoodies were pretty cool last year.</td></tr>
@@ -51,8 +50,7 @@
           <tr><td>$1000</td> <td>workshop sponsor </td><td>Help cover travel/room cost for the three Friday workshop groups)</td></tr>
           </table>
            </p>
-           </div>
-           </div>
+       </div>
     </div>
   </div>
 

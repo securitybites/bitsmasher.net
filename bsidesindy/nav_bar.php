@@ -5,5 +5,6 @@
       <li><a href="swag.php">SWAG</a></li>
       <li style="border-right: none;"><a href="sponsors.php">Sponsors</a></li>
       <li><a href="training.php">Training</a></li>
+      <li><a href="about_us.php">About</a></li>
     </ul>
   </div>
