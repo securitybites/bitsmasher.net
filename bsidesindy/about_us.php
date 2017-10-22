@@ -32,7 +32,7 @@ He holds an MS in Computer Information Systems from Northwestern and an MS from 
 These days Franklin breaks things, fixes things, and is in the Detection Engineering group on the Security Data Platform team at a well-known West 
 Coast technology company.
 </td></tr>
-      <tr><td><img src="images/reid2.jpg"></td><td>Reid Wightman has worked offensive and defensive security for the Department of Defense and the 
+      <tr><td><img src="images/reid2.png"></td><td>Reid Wightman has worked offensive and defensive security for the Department of Defense and the 
       private sector. He cut his teeth in the ICS space working for Schweitzer Engineering Laboratories, where he demonstrated reverse engineering 
       techniques against industrial controllers to drive production of more secure products. Since joining Digital Bond, Reid has been actively reverse 
       engineering industrial control systems to find their design flaws, backdoors, and other security limitations</td></tr>
@@ -43,7 +43,7 @@ one of the <a href="https://www.cyberscoop.com/top-women-in-cybersecurity-kimber
 Kimber’s background is in Information Security, Incident Response, Security Policy, and Penetration Testing. She is an avid admirer of 
 Chiroptera and is a connoisseur of comic books and video games.
 </td></tr>
-<tr><td><image src="images/wik1.jpg"></td><td><a href="http://wik-i-pedia.com/about/" target="_top">Jamie Filson</a> 
+<tr><td><image src="images/wik1.png"></td><td><a href="http://wik-i-pedia.com/about/" target="_top">Jamie Filson</a> 
 (<a href="https://twitter.com/jaimefilson" target="_top">also known as @wik</a>) brings his creative talents to bear on the badges for the @indybsides
 conference.</td></tr>
 </table>
