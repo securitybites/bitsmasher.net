@@ -29,6 +29,7 @@
 	  <p align="left"><strong>Location:</strong><br />
 	     <strong>New Location this year: IUPUI</strong><br />
         <a href="https://bsidesindy2018.busyconf.com/bookings/new" target="_blank"><strong>Purchase Tickets</a></strong><br /> </p>
+        <p align="left"><strong><a href="https://imgur.com/a/w0UnE">Click here for pictures from 2017</a></strong></p>
         <p align="left"><strong><a href="https://www.youtube.com/playlist?list=PLNhlcxQZJSm-LJeAbcp9UuKCwl9le-j9r">Click here for videos from 2017</a></strong></p>
     </div>
     <div id="contentPhoto">
